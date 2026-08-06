@@ -1,4 +1,4 @@
-Carrefour CRM — E-Posta Kampanya ve KPI Analizi
+# Carrefour CRM — E-Posta Kampanya ve KPI Analizi
 
 Bu proje, Carrefour CRM verilerini kullanarak e-posta kampanyalarının yapısını, dönüşüm performansını ve Fransa segmentine ait bültenlerin (newsletter) KPI metriklerini analiz etmek amacıyla hazırlanmıştır.
 
